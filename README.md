@@ -15,7 +15,7 @@ O site tem como principal finalidade **automatizar o sorteio de amigo secreto**,
 - **CSS3**  
 - **JavaScript**  
 
-## Site
+## 🖥️ Site
 - https://itsyhago.github.io/amigo-secreto/
 ## 📌 Como usar  
 1. Digite o nome dos participantes no campo de texto.  
